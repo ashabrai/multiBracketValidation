@@ -1,0 +1,30 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "code challenges",
+  "main": "array_reverse.js",
+  "scripts": {
+    "test": "eslint . && jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnorth93/data-structures-and-algorithms.git"
+  },
+  "author": "Tom North",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnorth93/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/tnorth93/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "eslint": "^5.5.0",
+    "eslint-plugin-dependencies": "^2.4.0",
+    "eslint-plugin-jest": "^21.22.0",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
